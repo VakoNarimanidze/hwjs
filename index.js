@@ -21,7 +21,6 @@ container.appendChild(h1);
 container.appendChild(image);
 container.appendChild(paragraph);
 container.appendChild(button);
-
 document.body.appendChild(container);
 
 container.style.display = 'flex';
